@@ -1,11 +1,16 @@
-### Hi there 👋
+### Hello, I'm Rakib 👋
 
+- 🔭 Some of the things I'm working on:
+  - 🏎️ [f1buddy, a Discord bot for F1 statistics](https://github.com/F1-Buddy/f1buddy-python)
+  - 🎮 [Nintendo Switch Homebrew](https://github.com/rakib-shahid/sys-menumusic)
+  - ⌨️ [Building custom keyboards with microcontrollers](https://github.com/rakib-shahid/rs4x4/tree/main)
+- 📫 Contact me at rakibshahid1298@gmail.com
 <!--
 **rakib-shahid/rakib-shahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
