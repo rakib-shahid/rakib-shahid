@@ -2,7 +2,7 @@
 
 - 🔭 Some of the things I'm working on:
   - 🏎️ [f1buddy, a Discord bot for F1 statistics and data analysis](https://github.com/F1-Buddy/f1buddy-python)
-  - ⌨️ [Building custom keyboards](https://github.com/rakib-shahid/rs4x4/tree/main)
+  - ⌨️ [Building custom keyboards](https://github.com/rakib-shahid/rs5x4/)
   - 🎮 [Nintendo Switch Homebrew](https://github.com/rakib-shahid/sys-menumusic)
   
 - 📫 Contact me at rakibshahid1298@gmail.com
